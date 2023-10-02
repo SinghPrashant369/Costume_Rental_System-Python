@@ -1,0 +1,5 @@
+Customer Name: prashant 
+Date Time of borrow: 2023-10-2 15:5:0
+Total Price: $36.0
+Items in rent are: 
+1. Fairy Costume:-DollarSmart
